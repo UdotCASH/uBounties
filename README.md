@@ -4,7 +4,7 @@ Welcome Bounty Hunter. You have found the UBOUNTIES page, a place for BOUNTIES i
 
 BOUNTIES are tasks + rewards. Bounties will be continually posted and updated with instructions alongside reward amounts in UCASH. 
 
-To be a bounty hunter read carefully below. For more detailed instructions, declare yourself as a bounty hunter in the discord server.
+To be a bounty hunter read carefully below. For more detailed instructions, declare yourself as a bounty hunter in the [discord server](https://discord.gg/SDfjxxAM).
 
 
 # UBOUNTIES
